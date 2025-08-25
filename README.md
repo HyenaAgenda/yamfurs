@@ -4,12 +4,12 @@ A modern, responsive website for the Wolverhampton & Black Country Furs local fu
 
 ## Features
 
-- 🎨 Modern, responsive design
-- 📱 Mobile-friendly layout
-- 🎯 Clear call-to-action for Telegram group
-- ✨ Smooth animations and interactions
-- 🌈 Attractive color scheme
-- 📸 Integration with your banner and logo
+- Modern, responsive design
+- Mobile-friendly layout
+- Clear call-to-action for Telegram group
+- Smooth animations and interactions
+- Attractive color scheme
+- Integration with your banner and logo
 
 ## Files Included
 
