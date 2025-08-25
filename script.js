@@ -9,8 +9,8 @@ document.addEventListener('DOMContentLoaded', function() {
             const targetId = this.getAttribute('href');
             
             // Check if it's a link to another page (not a hash link)
-            if (targetId.includes('.html') || targetId.startsWith('http')) {
-                // Let the link work normally for external pages
+            if (targetId.includes('.html') || targetId.startsWith('http') || targetId.includes('/') || targetId === '../' || targetId === './') {
+                // Let the link work normally for external pages and folder paths
                 return;
             }
             
