@@ -56,9 +56,7 @@ The website is optimized for:
 - SEO best practices
 - Accessibility
 
-## Support
 
-If you need help customizing the website or setting up GitHub Pages, feel free to reach out to the community!
 
 ---
 
